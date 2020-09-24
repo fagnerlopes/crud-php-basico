@@ -1,1 +1,2 @@
-# crud-php-basico
+# PHP CRUD Básico
+Utilizando PDO
